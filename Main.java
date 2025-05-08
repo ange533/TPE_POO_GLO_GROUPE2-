@@ -56,8 +56,6 @@ public class Main {
 
 
 
-        
-
         // Test de la classe SlantedRectangle
         System.out.println("=== Test de SlantedRectangle ===");
 

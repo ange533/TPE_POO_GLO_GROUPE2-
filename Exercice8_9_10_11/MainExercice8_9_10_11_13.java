@@ -1,7 +1,7 @@
 public class MainExercice8_9_10_11_13 {
     public static void main(String[] args) {
         //exercice 8,9,10
-      /*   A a = new A();
+        A a = new A();
         A ab = new B();
         B b = new B();
         a.f(a);
@@ -20,7 +20,7 @@ public class MainExercice8_9_10_11_13 {
         System.out.println(b instanceof A);
         System.out.println(a instanceof B);
         System.out.println(ab instanceof B);
-        System.out.println(b instanceof B);*/
+        System.out.println(b instanceof B);
 
         //exercice 13
         C c = new C();
