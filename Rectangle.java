@@ -1,4 +1,4 @@
-//Classe  Rectangle
+//Class Rectangle
 //exercice1
 class Rectangle {
     private Point pointbasgauche;
