@@ -81,6 +81,17 @@ public boolean equals(Rectangle r){
     return ((this.hauteur==r.getHauteur())&&(this.largeur==r.getLargeur())&&(this.pointbasgauche.equals(r.getPointbasgauche())));
           }
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+          @Override
+          public  boolean equals(Object object){
+        if (this == object)
+            return true;
+        if (!(object instanceof Rectangle))
+            return false;
+        Rectangle rectangle = (Rectangle) object;
+              return ((this.hauteur==rectangle.getHauteur())&&(this.largeur==rectangle.getLargeur())&&(this.pointbasgauche.equals(rectangle.getPointbasgauche())));
+          }
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
           
 //exercice5
 public static int getNbr() {
@@ -99,12 +110,12 @@ public static Rectangle hull(Rectangle[] rec) {
     float minY = rec[0].getPointbasgauche().getY();
     float maxX = minX + rec[0].getLargeur();
     float maxY = minY + rec[0].getHauteur();
-     
+
     // On parcourt les autres rec pour trouver les extrêmes
     /* for(i=0;i<rec.length;i++){
             r=rec[i];
     } */
-     for (Rectangle r : rec) {
+    for (Rectangle r : rec) {
         float x = r.getPointbasgauche().getX();
         float y = r.getPointbasgauche().getY();
         float droite = x + r.getLargeur();
@@ -119,6 +130,6 @@ public static Rectangle hull(Rectangle[] rec) {
     // Le rectangle englobant a comme coin bas-gauche (minX, minY)
     // et ses dimensions sont (maxX - minX) et (maxY - minY)
     return new Rectangle(minX, minY, maxX - minX, maxY - minY);
-}
+    }
 
 }

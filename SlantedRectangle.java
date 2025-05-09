@@ -97,7 +97,7 @@ public class SlantedRectangle extends Rectangle {
         return super.equals(r) && this.angle == sr.getAngle();
     }
    
-    //Représentation textuelle du rectangle incliné 
+    //Représentation textuelle du rectangle incliné
     @Override
     public String toString() {
         return "SlantedRectangle [point=" + getPointbasgauche() + ", largeur=" + getLargeur() 
