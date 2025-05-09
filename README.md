@@ -10,7 +10,7 @@ La répartition complète des tâches figure dans le fichier Répartition_des_t�
 
 **Partie théorique:**
 
-Le rapport répondant aux questions théoriques est disponible dans le fichier RAPPORT_QUESTION_THORIQUESTPE_POO_GLO_GROUPE2.pdf. Il contient les réponses structurées et justifiées aux exercices proposés.
+Le rapport répondant aux questions théoriques est disponible dans le fichier Rapport_questions_theoriques_TPE_POO_GLO_GROUPE2.pdf. Il contient les réponses structurées et justifiées aux exercices proposés.
 
 **Gestion des branches Git**
 Nous avons créé une branche dédiée par membre :
