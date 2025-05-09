@@ -1,9 +1,8 @@
 public class Dessin {
-    private Rectangle[] rectangles;   
-    private int count;               
-    private Rectangle hullRect;      
+    private Rectangle[] rectangles;
+    private int count;
+    private Rectangle hullRect;
 
-   
     public Dessin(int tailleMax) {
         rectangles = new Rectangle[tailleMax];
         count = 0;
@@ -54,14 +53,16 @@ public class Dessin {
         return hullRect;
     }
 
-    /*// Pour l'affichage (optionnel)
-    public void afficher() {
-        System.out.println("Dessin avec " + count + " rectangles :");
-        for (int i = 0; i < count; i++) {
-            System.out.println("Rectangle " + (i + 1) + " :");
-            System.out.println("Coin bas gauche : " + rectangles[i].getPointbasgauche());
-            System.out.println("Largeur : " + rectangles[i].getLargeur());
-            System.out.println("Hauteur : " + rectangles[i].getHauteur());
-        }
-    }*/
+    /*
+     * // Pour l'affichage (optionnel)
+     * public void afficher() {
+     * System.out.println("Dessin avec " + count + " rectangles :");
+     * for (int i = 0; i < count; i++) {
+     * System.out.println("Rectangle " + (i + 1) + " :");
+     * System.out.println("Coin bas gauche : " + rectangles[i].getPointbasgauche());
+     * System.out.println("Largeur : " + rectangles[i].getLargeur());
+     * System.out.println("Hauteur : " + rectangles[i].getHauteur());
+     * }
+     * }
+     */
 }
