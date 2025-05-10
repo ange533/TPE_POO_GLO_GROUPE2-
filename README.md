@@ -22,4 +22,4 @@ Chaque branche contient les fichiers et développements spécifiques réalisés 
 La branche **main** contient la version finale du projet, fusionnée à partir des contributions de chaque membre.
 
 ## Partie théorique
-Le rapport répondant aux questions théoriques est disponible dans le fichier **RAPPORT_QUESTION_THORIQUESTPE_POO_GLO_GROUPE2.pdf**. Il contient les réponses structurées et justifiées aux exercices proposés.
+Le rapport répondant aux questions théoriques est disponible dans le fichier **RAPPORT_QUESTION_THEORIQUES.pdf**. Il contient les réponses structurées et justifiées aux exercices proposés.
