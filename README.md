@@ -1,27 +1,27 @@
 # TPE_POO_GLO_GROUPE2-
 
-**Organisation du projet:**
+# TPE_POO_GLO_GROUPE2
 
-  Ce projet a été réalisé par une équipe de trois membres. Afin de garantir un travail collaboratif efficace et structuré, nous avons adopté une méthodologie basée sur la répartition des tâches et l'utilisation de branches Git distinctes.
+## Organisation du projet
 
-**Répartition des tâches:**
+Ce projet a été réalisé par une équipe de trois membres. Afin de garantir un travail collaboratif efficace et structuré, nous avons adopté une méthodologie basée sur la répartition des tâches et l'utilisation de branches Git distinctes.
 
-La répartition complète des tâches figure dans le fichier Répartition_des_tâches.pdf. Chaque membre s’est vu confier des responsabilités spécifiques, aussi bien pour la partie théorique que pour la partie pratique du projet.
+## Répartition des tâches
 
-**Partie théorique:**
+La répartition complète des tâches figure dans le fichier **Répartition_des_tâches.pdf**. Chaque membre s'est vu confier des responsabilités spécifiques, aussi bien pour la partie théorique que pour la partie pratique du projet.
 
-Le rapport répondant aux questions théoriques est disponible dans le fichier Rapport_questions_theoriques_TPE_POO_GLO_GROUPE2.pdf. Il contient les réponses structurées et justifiées aux exercices proposés.
+## Gestion des branches Git
 
-**Gestion des branches Git**
 Nous avons créé une branche dédiée par membre :
 
-NOUGA: travail de [NOUGA MFANGNIA ANGE MERVEILLE]
-
-Tonfeu : travail de [TONFEU NJODIEU STYVE FRIEDEL]
-
-Kamdem : travail de [KAMDEM DEFO BAKAM ONESIME]
+- **NOUGA**: travail de [NOUGA MFANGNIA ANGE MERVEILLE]
+- **Tonfeu**: travail de [TONFEU NJODIEU STYVE FRIEDEL]
+- **Kamdem**: travail de [KAMDEM DEFO BAKAM ONESIME]
 
 Chaque branche contient les fichiers et développements spécifiques réalisés par l'étudiant concerné.
 
-La branche main contient la version finale du projet, fusionnée à partir des contributions de chaque membre.
+La branche **main** contient la version finale du projet, fusionnée à partir des contributions de chaque membre.
 
+## Partie théorique
+
+Le rapport répondant aux questions théoriques est disponible dans le fichier **RAPPORT_QUESTION_THORIQUESTPE_POO_GLO_GROUPE2.pdf**. Il contient les réponses structurées et justifiées aux exercices proposés.
