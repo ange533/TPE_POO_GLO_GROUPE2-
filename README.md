@@ -19,7 +19,7 @@ Nous avons créé une branche dédiée par membre :
 
 Chaque branche contient les fichiers et développements spécifiques réalisés par l'étudiant concerné.
 
-La branche **main** contient la version finale du projet, fusionnée à partir des contributions de chaque membre.
+La branche **main** contient la version finale du projet qui fonctionne parfaitement, fusionnée à partir des contributions de chaque membre.
 
 ## Partie théorique
 Le rapport répondant aux questions théoriques est disponible dans le fichier **RAPPORT_QUESTION_THEORIQUES.pdf**. Il contient les réponses structurées et justifiées aux exercices proposés.
